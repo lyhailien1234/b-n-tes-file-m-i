@@ -86,18 +86,27 @@
                 <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-max-select-202209?wid=470&hei=556&fmt=png-alpha&.v=1660753619946" alt="iPhone 14 Pro Max" />
                 <h2>iPhone 14 Pro Max</h2>
                 <p class="price">35,000,000₫</p>
+                <button>thêm giỏ hàng</button>
+                <button>chuyển khoản ngân hàng</button>
+                <button>thanh toán voucher</button>
                 <button>Mua ngay</button>
             </div>
             <div class="product">
                 <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1631652955000" alt="iPhone 13 Pro" />
                 <h2>iPhone 13 Pro</h2>
                 <p class="price">28,000,000₫</p>
+                <button>thêm giỏ hàng</button>
+                <button>chuyển khoản ngân hàng</button>
+                <button>thanh toán voucher</button>
                 <button>Mua ngay</button>
             </div>
             <div class="product">
                 <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-pro-blue-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604021660000" alt="iPhone 12 Pro" />
                 <h2>iPhone 12 Pro</h2>
                 <p class="price">20,000,000₫</p>
+                <button>thêm giỏ hàng</button>
+                <button>chuyển khoản ngân hàng</button>
+                <button>thanh toán voucher</button>
                 <button>Mua ngay</button>
             </div>
         </div>
